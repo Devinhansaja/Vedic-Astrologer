@@ -1,0 +1,8 @@
+{
+  "name": "Vedic Astrology & Palmistry Reading",
+  "description": "A comprehensive personalized life reading portal based on Vedic Astrology (Jyotish) and Palmistry, powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
